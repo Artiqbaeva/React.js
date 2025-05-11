@@ -1,0 +1,31 @@
+.navbar-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 0;
+    gap: 900px;
+    color: white;
+    font-family: Lora;
+}
+.navbar-nav h2{
+    font-family: Lora;
+    font-weight: 400;
+    font-size: 26px;
+}
+.ul-collection{
+    display: flex;
+    gap: 20px;
+}
+.ul-collection li a{
+    color: white;
+    font-family: Oxygen;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+}
+.header{
+    position: relative;
+}

@@ -1,0 +1,60 @@
+.hero{
+    position: absolute;
+    top: 180px;
+    left: 36%;
+}
+.hero h2{
+    font-family: Lora;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 51px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.hero p{
+    font-family: Oxygen;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: .63;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-bottom: 31px;
+}
+.hero button{
+    width: 167px;
+    height: 44px;
+    top: 115px;
+    left: 387px;
+    display: block;
+    margin: 0 auto;
+    background: #DD783F;
+    border: none;
+    color: #FFFFFF;
+    border-radius: 3px;
+    font-family: Oxygen;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.category-ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 67px;
+    margin-top: 22px;
+}
+.category-ul li a{
+    font-family: Lora;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #768088;   
+}
